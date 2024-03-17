@@ -1,8 +1,12 @@
-from loan_pred_model.config import config
+# from loan_pred_model.config import config
+from config import config
+
 import pandas as pd
 import numpy as np
 import joblib
-from loan_pred_model.processing.data_handling import load_pipeline,load_dataset
+# from loan_pred_model.processing.data_handling import load_pipeline,load_dataset
+from processing.data_handling import load_pipeline,load_dataset
+
 
 
 classification_pipeline = load_pipeline(config.MODEL_NAME)

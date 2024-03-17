@@ -1,7 +1,9 @@
 import os 
 import pandas as pd  
 import joblib 
-from loan_pred_model.config import config 
+# from loan_pred_model.config import config 
+from config import config 
+
 
 
 # function to load the data
