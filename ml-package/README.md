@@ -40,5 +40,7 @@ Leave all the remaining setup as it is.
 
 
 # How to install the package
+- To install the package run this command in your terminal:
+ `pip install git+https://github.com/kempsly/packaging-ml-model-old-approach.git@main#subdirectory=ml-package/model-package`
 
   
