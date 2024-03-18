@@ -1,11 +1,15 @@
 import pathlib
 import os
-# import loan_pred_model
+import loan_pred_model
+# from . import loan_pred_model
 
 
-current_directory = os.path.dirname(os.path.realpath(__file__))
-PACKAGE_ROOT = os.path.dirname(current_directory)
-# PACKAGE_ROOT = pathlib.Path(loan_pred_model.__file__).resolve().parent
+
+# current_directory = os.path.dirname(os.path.realpath(__file__))
+# PACKAGE_ROOT = os.path.dirname(current_directory)
+PACKAGE_ROOT = pathlib.Path(loan_pred_model.__file__).resolve().parent
+ROOT = PACKAGE_ROOT.parent
+
 
 DATAPATH = os.path.join(PACKAGE_ROOT, "datasets")
 

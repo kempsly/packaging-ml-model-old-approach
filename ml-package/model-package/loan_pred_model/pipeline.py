@@ -1,8 +1,8 @@
 from sklearn.pipeline import Pipeline 
-# from loan_pred_model.config import config 
-# import loan_pred_model.processing.preprocessing as pp
-from config import config 
-import processing.preprocessing as pp
+from loan_pred_model.config import config 
+import loan_pred_model.processing.preprocessing as pp
+# from config import config 
+# import processing.preprocessing as pp
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.linear_model import LogisticRegression
 import numpy as np

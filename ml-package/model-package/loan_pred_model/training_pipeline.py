@@ -1,13 +1,16 @@
 import pandas as pd
 import numpy as np
-# from loan_pred_model.config import config
-# from loan_pred_model.processing.data_handling import load_dataset,save_pipeline
-# import loan_pred_model.processing.preprocessing as pp 
-# import loan_pred_model.pipeline as pipe
-from config import config
-from processing.data_handling import load_dataset,save_pipeline
-import processing.preprocessing as pp 
-import pipeline as pipe
+
+from loan_pred_model.config import config
+from loan_pred_model.processing.data_handling import load_dataset,save_pipeline
+import loan_pred_model.processing.preprocessing as pp 
+import loan_pred_model.pipeline as pipe
+
+# from config import config
+# from processing.data_handling import load_dataset,save_pipeline
+# import processing.preprocessing as pp 
+# import pipeline as pipe
+
 import sys 
 
 
