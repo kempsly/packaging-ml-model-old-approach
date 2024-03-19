@@ -1,13 +1,13 @@
 #### Packaging model
 
 To execute the package without any installation just use this command in your terminal:
-set PYTHONPATH=%PYTHONPATH%;C:\Users\Administrator\Kempsly\Documents\packaging-ml-model-old-approach\ml-package\model-package
+`set PYTHONPATH=%PYTHONPATH%;C:\Users\Administrator\Kempsly\Documents\packaging-ml-model-old-approach\ml-package\model-package`
 
 
 <!-- To make it permanetly -->
-setx PYTHONPATH "%PYTHONPATH%;C:\Users\Administrator\Kempsly\Documents\packaging-ml-model-old-approach\ml-package\model-package"
+`setx PYTHONPATH "%PYTHONPATH%;C:\Users\Administrator\Kempsly\Documents\packaging-ml-model-old-approach\ml-package\model-package"`
 
-setx PYTHONPATH "%PYTHONPATH%;CUsers\Administrator\Kempsly\Documents\packaging-ml-model-old-approach\ml-package\model-package"
+`setx PYTHONPATH "%PYTHONPATH%;CUsers\Administrator\Kempsly\Documents\packaging-ml-model-old-approach\ml-package\model-package"`
 
 <!-- Make sure to replace kempsly by your own user name, that is for windows user -->
 
