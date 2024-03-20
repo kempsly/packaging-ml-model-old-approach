@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Kempsly/Documents/packaging-ml-model-old-approach/managing_ml_experiment_with_mlflow/mlruns/0/e12175a754384ee78e1cca1848bcffca/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e12175a754384ee78e1cca1848bcffca
+run_name: beautiful-vole-346
+run_uuid: e12175a754384ee78e1cca1848bcffca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710922514229
+status: 1
+tags: []
+user_id: Kempsly

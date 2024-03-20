@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Kempsly/Documents/packaging-ml-model-old-approach/managing_ml_experiment_with_mlflow/mlruns/900757343882769010/940be212c9664745876e0da96ca99b5d/artifacts
+deleted_time: 1710884227516
+end_time: 1710878660185
+entry_point_name: ''
+experiment_id: '900757343882769010'
+lifecycle_stage: deleted
+run_id: 940be212c9664745876e0da96ca99b5d
+run_name: thundering-worm-469
+run_uuid: 940be212c9664745876e0da96ca99b5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710878659998
+status: 4
+tags: []
+user_id: Kempsly

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/515181520667667316/84c5682faa5a4afbbf1f569d1d96c492/artifacts
+end_time: 1710920498435
+entry_point_name: ''
+experiment_id: '515181520667667316'
+lifecycle_stage: active
+run_id: 84c5682faa5a4afbbf1f569d1d96c492
+run_name: adaptable-fawn-496
+run_uuid: 84c5682faa5a4afbbf1f569d1d96c492
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710920498007
+status: 4
+tags: []
+user_id: Kempsly

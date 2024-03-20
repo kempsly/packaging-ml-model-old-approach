@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Kempsly/Documents/packaging-ml-model-old-approach/managing_ml_experiment_with_mlflow/mlruns/557917601864405560/39ed6a06dbd041b8b82c74bd561280dd/artifacts
+deleted_time: 1710884233932
+end_time: 1710869886220
+entry_point_name: ''
+experiment_id: '557917601864405560'
+lifecycle_stage: deleted
+run_id: 39ed6a06dbd041b8b82c74bd561280dd
+run_name: stylish-grub-411
+run_uuid: 39ed6a06dbd041b8b82c74bd561280dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710869886108
+status: 3
+tags: []
+user_id: Kempsly

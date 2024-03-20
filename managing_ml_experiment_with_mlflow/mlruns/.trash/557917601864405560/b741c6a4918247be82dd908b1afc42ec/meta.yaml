@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Kempsly/Documents/packaging-ml-model-old-approach/managing_ml_experiment_with_mlflow/mlruns/557917601864405560/b741c6a4918247be82dd908b1afc42ec/artifacts
+deleted_time: 1710884233932
+end_time: 1710869429840
+entry_point_name: ''
+experiment_id: '557917601864405560'
+lifecycle_stage: deleted
+run_id: b741c6a4918247be82dd908b1afc42ec
+run_name: Demo Run Example
+run_uuid: b741c6a4918247be82dd908b1afc42ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710869429779
+status: 4
+tags: []
+user_id: Kempsly

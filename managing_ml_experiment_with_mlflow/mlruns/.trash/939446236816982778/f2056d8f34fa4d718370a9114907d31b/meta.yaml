@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Kempsly/Documents/packaging-ml-model-old-approach/managing_ml_experiment_with_mlflow/mlruns/939446236816982778/f2056d8f34fa4d718370a9114907d31b/artifacts
+deleted_time: 1710883894897
+end_time: null
+entry_point_name: ''
+experiment_id: '939446236816982778'
+lifecycle_stage: deleted
+run_id: f2056d8f34fa4d718370a9114907d31b
+run_name: brawny-steed-303
+run_uuid: f2056d8f34fa4d718370a9114907d31b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710882557289
+status: 1
+tags: []
+user_id: Kempsly

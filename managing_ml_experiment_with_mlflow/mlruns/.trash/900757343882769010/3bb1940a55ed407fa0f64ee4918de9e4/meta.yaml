@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Kempsly/Documents/packaging-ml-model-old-approach/managing_ml_experiment_with_mlflow/mlruns/900757343882769010/3bb1940a55ed407fa0f64ee4918de9e4/artifacts
+deleted_time: 1710884227516
+end_time: 1710879066952
+entry_point_name: ''
+experiment_id: '900757343882769010'
+lifecycle_stage: deleted
+run_id: 3bb1940a55ed407fa0f64ee4918de9e4
+run_name: mysterious-bear-489
+run_uuid: 3bb1940a55ed407fa0f64ee4918de9e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710879060406
+status: 3
+tags: []
+user_id: Kempsly

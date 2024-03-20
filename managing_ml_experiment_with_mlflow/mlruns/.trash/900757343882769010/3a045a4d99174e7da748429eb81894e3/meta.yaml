@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Kempsly/Documents/packaging-ml-model-old-approach/managing_ml_experiment_with_mlflow/mlruns/900757343882769010/3a045a4d99174e7da748429eb81894e3/artifacts
+deleted_time: 1710884227516
+end_time: 1710879302077
+entry_point_name: ''
+experiment_id: '900757343882769010'
+lifecycle_stage: deleted
+run_id: 3a045a4d99174e7da748429eb81894e3
+run_name: loud-pig-472
+run_uuid: 3a045a4d99174e7da748429eb81894e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710879297258
+status: 3
+tags: []
+user_id: Kempsly

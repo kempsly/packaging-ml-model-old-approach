@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/515181520667667316/6388030a2aa84d449c68a1a28825ff49/artifacts
+end_time: 1710921051275
+entry_point_name: ''
+experiment_id: '515181520667667316'
+lifecycle_stage: active
+run_id: 6388030a2aa84d449c68a1a28825ff49
+run_name: beautiful-ox-92
+run_uuid: 6388030a2aa84d449c68a1a28825ff49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710921040084
+status: 3
+tags: []
+user_id: Kempsly

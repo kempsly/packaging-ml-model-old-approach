@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/515181520667667316/b7457af835ce4bfdab21618911da71ac/artifacts
+end_time: 1710921055741
+entry_point_name: ''
+experiment_id: '515181520667667316'
+lifecycle_stage: active
+run_id: b7457af835ce4bfdab21618911da71ac
+run_name: adorable-swan-998
+run_uuid: b7457af835ce4bfdab21618911da71ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710921051342
+status: 3
+tags: []
+user_id: Kempsly
