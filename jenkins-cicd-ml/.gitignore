@@ -120,6 +120,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+.venvjenkins
 .venvml2
 .venvml
 .modelvenv
@@ -130,6 +131,7 @@ venv/
 venvml/
 modelvenv/
 venvml2/
+venvjenkins/
 ENV/
 env.bak/
 venv.bak/

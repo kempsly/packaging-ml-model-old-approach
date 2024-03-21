@@ -3,6 +3,7 @@
 To execute the package without any installation just use this command in your terminal:
 `set PYTHONPATH=%PYTHONPATH%;C:\Users\Administrator\Kempsly\Documents\packaging-ml-model-old-approach\ml-package\model-package`
 
+<!-- set PYTHONPATH=%PYTHONPATH%;c:\users\kempsly\anaconda3\envs\venvjenkins\lib\site-packages -->
 
 <!-- To make it permanetly -->
 `setx PYTHONPATH "%PYTHONPATH%;C:\Users\Administrator\Kempsly\Documents\packaging-ml-model-old-approach\ml-package\model-package"`
@@ -43,4 +44,5 @@ Leave all the remaining setup as it is.
 - To install the package run this command in your terminal:
  `pip install git+https://github.com/kempsly/packaging-ml-model-old-approach.git@main#subdirectory=ml-package/model-package`
 
+- another important note, when
   
