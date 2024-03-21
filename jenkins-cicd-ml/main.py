@@ -48,8 +48,8 @@ def index():
 
 @app.post('/prediction_api')
 def predict(loan_details: LoanPrediction):
-    # convert incoming data into python dictionnary
-    data = loan_details.model_dump()
+    # Convert incoming data into a Python dictionary
+    data = dict(loan_details)
     prediction = generate_predictions([data])["prediction"][0]
     if prediction == "Y":
         pred = "Approved"
@@ -57,6 +57,19 @@ def predict(loan_details: LoanPrediction):
         pred = "Rejected"
     
     return {"status": pred}
+
+# Old approach
+# @app.post('/prediction_api')
+# def predict(loan_details: LoanPrediction):
+#     # convert incoming data into python dictionnary
+#     data = loan_details.model_dump()
+#     prediction = generate_predictions([data])["prediction"][0]
+#     if prediction == "Y":
+#         pred = "Approved"
+#     else:
+#         pred = "Rejected"
+    
+#     return {"status": pred}
 
 @app.post('/prediction_ui')
 def predict_gui(Gender: str,
